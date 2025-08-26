@@ -1,2 +1,2 @@
-# site-msc-2022
+# site-main
 Website for MSc research 2022
